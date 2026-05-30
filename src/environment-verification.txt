@@ -1,0 +1,11 @@
+==================================================
+LAB 0: ENVIRONMENT VERIFICATION
+==================================================
+✅ Python Version: 3.9.6
+✅ OS: Darwin 25.4.0
+✅ NumPy: 2.0.2
+✅ Pandas: 2.3.3
+✅ Matplotlib: 3.9.4
+✅ Seaborn: 0.13.2
+✅ Virtual Environment: Active (/Users/danielglover/Python/IntroAISchool/firstENV/.venv)
+==================================================
