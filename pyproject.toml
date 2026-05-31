@@ -1,12 +1,13 @@
 [project]
 name = "firstenv"
 version = "0.1.0"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 dependencies = [
     "jupyter>=1.1.1",
     "matplotlib>=3.9.4",
     "notebook>=7.5.6",
     "numpy>=2.0.2",
     "pandas>=2.3.3",
+    "pandas-stubs>=2.3.3.260113",
     "seaborn>=0.13.2",
 ]
